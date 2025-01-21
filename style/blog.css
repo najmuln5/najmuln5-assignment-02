@@ -104,7 +104,7 @@
 .color2{
     color: #01ACFD;
 }
-.banner-description{
+.banner-description {
     
 }
 .btn-2{
@@ -122,6 +122,97 @@
     padding-left: 500px;
 }
  
+.banr-ttl{
+    width: 450px;
+    height: 60px;
+    font-size: 3rem;
+    margin-left: 500px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    font-weight: bolder;
+    
+}
+.curriculm-descrip{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    column-gap: 25px;
+    
+}
  
+.kinder{
+    width: 370px;
+    height: 475px;
+    margin-left: 100px;
+    padding-right: 50px;
+}
+
+.elementary{
+    width: 370px;
+    height: 475px;
+    padding-right: 50px;
+
+}
+ .middle{
+    width: 370px;
+    height: 475px;
+    margin-right: 100px;
+
+ }
+ .head{
+    font-size: 24px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+ }
+.descr{
+    font-size: 15px;
+    color: #808080;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.sub-desc{
+    text-decoration: none;
+    color: #64C8FF;
+}
+.sub-desc2{
+    text-decoration: none;
+    color: #F0AA00;
+
+}
+.sub-desc3{
+    text-decoration: none;
+    color: #8700ff;
+}
+.kinder{
+    background-color: #DEF5FF;
+    width: 350px;
+    height: 450px;
+    padding-left: 100px;
+    padding-top: 50px;
+    border-radius: 15px;
+
+    
+}
+
+.elementary{
+    background-color: #FFF4DC;
+    width: 350px;
+    height: 450px;
+    padding-left: 100px;
+    padding-top: 50px;
+    border-radius: 15px;
 
 
+}
+ 
+.middle{
+    background-color: #F2E8FF;
+    width: 350px;
+    height: 450px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    border-radius: 15px;
+
+    
+}
