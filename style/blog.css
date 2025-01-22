@@ -12,6 +12,7 @@
     width: 65px;
     height: 65px;
     padding-right: 10px;
+   
 }
 .titlee{
     width: 130px;
@@ -84,7 +85,12 @@
     border-radius: 10px;
     
  }
-
+ .marq{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(197, 47, 97);
+    padding-top: 50px;
+ }
 .banner{
     display: flex;
     margin-left: 100px;
@@ -120,6 +126,7 @@
     height: 500px;
     margin-top: 50px;
     padding-left: 500px;
+
 }
  
 .banr-ttl{
@@ -409,3 +416,12 @@
     padding-left: 40px;
 }
     
+/* For mobile phones: */
+@media screen and (max-width:576px) {
+    .flex {
+        flex-direction: column;
+    }
+
+    
+}
+   
